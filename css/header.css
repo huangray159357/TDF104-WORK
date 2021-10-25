@@ -51,7 +51,7 @@ nav.nav>ul.link_list>li>a.aboutus{
   text-decoration: none;
 }
 nav.nav>ul.link_list>li>a.aboutus:hover{
-  background-image:url("file:///D:/TDF104-WORK/image/icon/green.png");
+  background-image:url("../image/icon/green.png");
   background-size: cover;
   /* color: #0E81D3; */
   font-weight: bolder;
@@ -63,7 +63,7 @@ nav.nav>ul.link_list>li>a.drinks{
   text-decoration: none;
 }
 nav.nav>ul.link_list>li>a.drinks:hover{
-  background-image:url("file:///D:/TDF104-WORK/image/icon/green.png");
+  background-image:url("../image/icon/green.png");
   background-size: cover;
   /* color: #0E81D3; */
   font-weight: bolder;
@@ -75,7 +75,7 @@ nav.nav>ul.link_list>li>a.news{
   text-decoration: none;
 }
 nav.nav>ul.link_list>li>a.news:hover{
-  background-image:url("file:///D:/TDF104-WORK/image/icon/green.png");
+  background-image:url("../image/icon/green.png");
   background-size: cover;
   /* color: #0E81D3; */
   font-weight: bolder;
@@ -87,7 +87,7 @@ nav.nav>ul.link_list>li>a.location{
   text-decoration: none;
 }
 nav.nav>ul.link_list>li>a.location:hover{
-  background-image:url("file:///D:/TDF104-WORK/image/icon/green.png");
+  background-image:url("../image/icon/green.png");
   background-size: cover;
   /* color: #0E81D3; */
   font-weight: bolder;
@@ -99,13 +99,13 @@ nav.nav>ul.link_list>li>a.contact{
   text-decoration: none;
 }
 nav.nav>ul.link_list>li>a.contact:hover{
-  background-image:url("file:///D:/TDF104-WORK/image/icon/green.png");
+  background-image:url("../image/icon/green.png");
   background-size: cover;
   /* color: #0E81D3; */
   font-weight: bolder;
 }
 header.header{
-  background-image: url("file:///D:/TDF104-WORK/image/background/banner.jpg");
+  background-image: url("../image/background/banner.jpg");
   /* border: 1px solid purple; */
   background-size: cover;
 }

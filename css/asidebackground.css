@@ -4,7 +4,7 @@ aside.left_background{
   /* border: 1px solid red; */
   display: inline-block;
   margin: 0;
-  background-image: url("file:///D:/TDF104-WORK/image/background/left.png");
+  background-image: url("../image/background/left.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -15,7 +15,7 @@ aside.right_background{
   /* border: 1px solid red; */
   display: inline-block;
   margin: 0;
-  background-image: url("file:///D:/TDF104-WORK/image/background/right.png");
+  background-image: url("../image/background/right.png");
   background-repeat: no-repeat;
   background-size: cover;
 }

@@ -14,7 +14,7 @@ body{
 
 header.header{
   height: 300px;
-  background-image: url("file:///D:/TDF104-WORK/image/background/SOMA1.jpg");
+  background-image: url("../image/background/SOMA1.jpg");
 }
 
 header.header p.title{
