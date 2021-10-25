@@ -1,0 +1,108 @@
+body{
+  width: 1920px;
+}
+header.header{
+  margin: 0 auto;
+  height: 900px;
+  display: block;
+  /* border: 1px solid blue; */
+}
+header.header>div.logo>a.logo_img{
+  display: block;
+  width: 108px;
+  margin: 0 auto;
+}
+
+header.header>div.logo>a>img.logo_img{
+  /* border: 1px solid red; */
+  padding: 0px;
+  margin: 0 auto;
+  display: inline-block;
+}
+div.banner{
+  background-image:
+}
+
+nav.nav{
+  display: flex;
+}
+nav.nav>ul{
+  /* border: 1px solid blue; */
+  list-style: none;
+  padding: 0;
+  margin: 25px auto 0 auto;
+  justify-content: space-evenly;
+
+}
+nav.nav>ul li{
+  display: inline-block;
+  margin: 0px auto;
+  /* border: 1px solid green; */
+  justify-content: space-evenly;
+}
+nav.nav>ul.link_list>li>a.aboutus{
+  /* border : 1px solid purple; */
+  font-size: 25px;
+  margin: 0 20px;
+  color : white;
+  text-decoration: none;
+}
+nav.nav>ul.link_list>li>a.aboutus:hover{
+  background-image:url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+  color: #0E81D3;
+  font-weight: bolder;
+}
+nav.nav>ul.link_list>li>a.drinks{
+  font-size: 25px;
+  margin: 0 20px;
+  color : white;
+  text-decoration: none;
+}
+nav.nav>ul.link_list>li>a.drinks:hover{
+  background-image:url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+  color: #0E81D3;
+  font-weight: bolder;
+}
+nav.nav>ul.link_list>li>a.news{
+  font-size: 25px;
+  margin: 0 20px;
+  color : white;
+  text-decoration: none;
+}
+nav.nav>ul.link_list>li>a.news:hover{
+  background-image:url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+  color: #0E81D3;
+  font-weight: bolder;
+}
+nav.nav>ul.link_list>li>a.location{
+  font-size: 25px;
+  margin: 0 20px;
+  color : white;
+  text-decoration: none;
+}
+nav.nav>ul.link_list>li>a.location:hover{
+  background-image:url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+  color: #0E81D3;
+  font-weight: bolder;
+}
+nav.nav>ul.link_list>li>a.contact{
+  font-size: 25px;
+  margin: 0 20px;
+  color : white;
+  text-decoration: none;
+}
+nav.nav>ul.link_list>li>a.contact:hover{
+  background-image:url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+  color: #0E81D3;
+  font-weight: bolder;
+}
+header.header{
+  background-image: url("file:///C:/Users/User/Desktop/TDF104%20WORK/image/background.png");
+  /* border: 1px solid purple; */
+  background-size: cover;
+}

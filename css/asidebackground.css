@@ -1,0 +1,21 @@
+aside.left_background{
+  width:231px;
+  height: 2550px;
+  /* border: 1px solid red; */
+  display: inline-block;
+  margin: 0;
+  background-image: url("file:///C:/Users/User/Desktop/TDF104%20WORK/image/background/left.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+aside.right_background{
+  width:231px;
+  height: 2550px;
+  /* border: 1px solid red; */
+  display: inline-block;
+  margin: 0;
+  background-image: url("file:///C:/Users/User/Desktop/TDF104%20WORK/image/background/right.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

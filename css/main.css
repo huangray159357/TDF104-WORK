@@ -1,0 +1,174 @@
+main.main{
+  display: inline-block;
+  /* border : 1px solid blue; */
+  width: 1440px;
+  height: 2500px;
+  vertical-align: top;
+  margin: 0;
+}
+main.main p.drinks{
+  /* border: 1px solid green; */
+  font-size: 50px;
+  text-align: center;
+  font-weight: bolder;
+  color :#0E81D3;
+}
+main.main div.leftdrink{
+  /* border: 1px solid black; */
+  display: inline-block;
+  margin: 0 198px;
+  position: relative;
+  bottom: 100px;
+  opacity: 0.7;
+}
+main.main div.centerdrink{
+  /* border: 1px solid red; */
+  display: inline-block;
+}
+main.main div.rightdrink{
+  /* border: 1px solid green; */
+  display: inline-block;
+  margin: 0 198px;
+  position: relative;
+  bottom: 100px;
+  opacity: 0.7;
+}
+main.main div.backgroundcircle{
+  /* border: 1px solid red; */
+  display: inline-block;
+  margin: 0 309px;
+  position: relative;
+  bottom: 160px;
+  opacity: 0.3;
+}
+main.main div.drink1{
+  /* border: 1px solid green; */
+  display: inline-block;
+  width: 400px;
+  position: relative;
+  bottom: 50px;
+  opacity: 0.6;
+}
+main.main div.drink2{
+  /* border: 1px solid green; */
+  display: inline-block;
+  width: 400px;
+  margin: 0px 50px;
+  background-image: url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-size: cover;
+}
+main.main div.drink3{
+  /* border: 1px solid green; */
+  display: inline-block;
+  width: 400px;
+  position: relative;
+  bottom: 50px;
+  opacity: 0.6;
+  vertical-align: top;
+}
+main.main div.drinkall{
+  text-align: center;
+  position: relative;
+  bottom: 100px;
+
+}
+main.main div p.drink1name,p.drink2name,p.drink3name{
+  color:#0E81D3;
+  font-weight: bolder;
+}
+main.main div p.drink1,p.drink1name{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div p.drink2,p.drink2name{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div p.drink3,p.drink3name{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div p.drink1name,p.drink2name,p.drink3name{
+  font-size: 30px;
+}
+
+main.main div.thought{
+  text-align: center;
+}
+main.main div p.thought{
+  font-size: 50px;
+  font-weight: bolder;
+  color :#0E81D3;
+}
+
+main.main img.text1{
+  position: relative;
+  right:60px;
+  display: inline-block;
+}
+main.main div.text1{
+  display: inline-block;
+  /* border: 1px solid red; */
+  width: 600px;
+  position: relative;
+  left: 30px;
+}
+main.main div.text1 p.text1,p.text11{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div.text1 p.text1{
+  color :#0E81D3;
+  font-size: 30px;
+  text-align: center;
+}
+
+main.main div.text2{
+  /* border: 1px solid red; */
+  display: block;
+  width: 600px;
+  position: relative;
+  left: 50px;
+  top: 50px;
+}
+
+main.main div.text2 p.text2,p.text22{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div.text2 p.text2{
+  color :#0E81D3;
+  text-align: center;
+  font-size: 30px;
+}
+
+main.main div.text3{
+  /* border: 1px solid red; */
+  width: 600px;
+  margin-top: 250px;
+  margin-left: 50px;
+  display: inline-block;
+}
+main.main div.text3 p.text3,p.text33{
+  font-size: 25px;
+  font-weight: bolder;
+}
+main.main div.text3 p.text3{
+  color : #164CD7;
+  font-size: 60px;
+  writing-mode: vertical-lr;
+  padding-left: 200px;
+}
+
+main.main img.text3{
+  position: relative;
+  left:60px;
+  bottom: 180px;
+  display: inline-block;
+}
+main.main div.pagetop {
+  text-align: center;
+  /* border: 1px solid red; */
+  position: relative;
+  right: 10px;
+}

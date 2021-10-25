@@ -1,0 +1,13 @@
+@import "./header.css";
+@import "./asidebackground.css";
+@import "./main.css";
+@import "./footer.css";
+*{
+  box-sizing: border-box;
+}
+body{
+  margin: 0;
+}
+*{
+  font-size: 0;
+}
