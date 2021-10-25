@@ -54,7 +54,7 @@ main.main div.drink2{
   display: inline-block;
   width: 400px;
   margin: 0px 50px;
-  background-image: url(file:///C:/Users/User/Desktop/TDF104%20WORK/image/icon/green.png);
+  background-image: url("file:///D:/TDF104-WORK/image/icon/green.png");
   background-size: cover;
 }
 main.main div.drink3{
