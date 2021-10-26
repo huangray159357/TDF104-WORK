@@ -21,8 +21,10 @@ header.header>div.logo>a>img.logo_img{
 }
 header.header{
   height: 900px;
-  width: 1920px;
+  width :100%;
   /* border: 1px solid red; */
+  margin: 0;
+  overflow: hidden;
 }
 
 nav.nav{

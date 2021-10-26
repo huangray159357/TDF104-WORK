@@ -34,6 +34,7 @@ main.main img.shake{
 position: relative;
 right: 50px;
 height: 600px;
+margin: 50px;
 }
 
 main.main div.story p{
@@ -88,7 +89,7 @@ main.main div.year{
   align-items: center;
   position: relative;
   bottom:350px;
-  background-image: url("file:///D:/TDF104-WORK/image/background/Line.png");
+  background-image: url("../image/background/Line.png");
   background-repeat: no-repeat;
   background-position:center;
 }
