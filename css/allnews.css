@@ -79,7 +79,7 @@ main.main div.moon p.moon{
   color:black;
 }
 main.main div.allnews div.news5:hover{
-  background-image: url("file:///D:/TDF104-WORK/image/background/newspic1small.png");
+  background-image: url("../image/background/newspic1small.png");
 }
 main.main div.allnews div.news5 p:hover{
   color: white;
